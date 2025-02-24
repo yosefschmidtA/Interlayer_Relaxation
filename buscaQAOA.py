@@ -21,8 +21,8 @@ def simulated_search(data, max_iterations=100):
     interlayer_values = np.arange(0.13, 0.41, 0.01)  # Valores permitidos
 
     # Escolha inicial aleatória de interlayers dentro do intervalo
-    inter1 = random.choice(interlayer_values)
-    inter2 = random.choice(interlayer_values)
+    inter1 = round(random.choice(interlayer_values),3)
+    inter2 = round(random.choice(interlayer_values),3)
     best_rfactor = data.get((inter1, inter2), float('inf'))
     best_params = (inter1, inter2)
 
