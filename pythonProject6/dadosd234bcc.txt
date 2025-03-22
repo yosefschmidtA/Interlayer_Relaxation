@@ -1,0 +1,1568 @@
+       Interlayer1 = 0.13
+       Interlayer2 = 0.13        Rfactor = 0.3920289382469114
+       Interlayer1 = 0.13
+       Interlayer2 = 0.14        Rfactor = 0.38834504105898426
+       Interlayer1 = 0.13
+       Interlayer2 = 0.15        Rfactor = 0.3901794945904576
+       Interlayer1 = 0.13
+       Interlayer2 = 0.16        Rfactor = 0.391892842830741
+       Interlayer1 = 0.13
+       Interlayer2 = 0.17        Rfactor = 0.38957865457070406
+       Interlayer1 = 0.13
+       Interlayer2 = 0.18        Rfactor = 0.3945751503792238
+       Interlayer1 = 0.13
+       Interlayer2 = 0.19        Rfactor = 0.38712850520126213
+       Interlayer1 = 0.13
+       Interlayer2 = 0.20        Rfactor = 0.38700272315965123
+       Interlayer1 = 0.13
+       Interlayer2 = 0.21        Rfactor = 0.38241327909627687
+       Interlayer1 = 0.13
+       Interlayer2 = 0.22        Rfactor = 0.3926842385631729
+       Interlayer1 = 0.13
+       Interlayer2 = 0.23        Rfactor = 0.39296284387238933
+       Interlayer1 = 0.13
+       Interlayer2 = 0.24        Rfactor = 0.39296284387238933
+       Interlayer1 = 0.13
+       Interlayer2 = 0.25        Rfactor = 0.3844641169059841
+       Interlayer1 = 0.13
+       Interlayer2 = 0.26        Rfactor = 0.36950326923954574
+       Interlayer1 = 0.13
+       Interlayer2 = 0.27        Rfactor = 0.3630376484645039
+       Interlayer1 = 0.13
+       Interlayer2 = 0.28        Rfactor = 0.3613238440053154
+       Interlayer1 = 0.13
+       Interlayer2 = 0.29        Rfactor = 0.36645499662521935
+       Interlayer1 = 0.13
+       Interlayer2 = 0.30        Rfactor = 0.3585030146100851
+       Interlayer1 = 0.13
+       Interlayer2 = 0.31        Rfactor = 0.35419707362260744
+       Interlayer1 = 0.13
+       Interlayer2 = 0.32        Rfactor = 0.3532488193776447
+       Interlayer1 = 0.13
+       Interlayer2 = 0.33        Rfactor = 0.35367031762223383
+       Interlayer1 = 0.13
+       Interlayer2 = 0.34        Rfactor = 0.34375892648272127
+       Interlayer1 = 0.13
+       Interlayer2 = 0.35        Rfactor = 0.34230615409881054
+       Interlayer1 = 0.13
+       Interlayer2 = 0.36        Rfactor = 0.3522229175721802
+       Interlayer1 = 0.13
+       Interlayer2 = 0.37        Rfactor = 0.34996052673722217
+       Interlayer1 = 0.13
+       Interlayer2 = 0.38        Rfactor = 0.35461673524320797
+       Interlayer1 = 0.13
+       Interlayer2 = 0.39        Rfactor = 0.3522722817659901
+       Interlayer1 = 0.13
+       Interlayer2 = 0.40        Rfactor = 0.35356226209132585
+       Interlayer1 = 0.14
+       Interlayer2 = 0.13        Rfactor = 0.3889079860242482
+       Interlayer1 = 0.14
+       Interlayer2 = 0.14        Rfactor = 0.38728043170006826
+       Interlayer1 = 0.14
+       Interlayer2 = 0.15        Rfactor = 0.3893470935432814
+       Interlayer1 = 0.14
+       Interlayer2 = 0.16        Rfactor = 0.3905398715740851
+       Interlayer1 = 0.14
+       Interlayer2 = 0.17        Rfactor = 0.3894845657102224
+       Interlayer1 = 0.14
+       Interlayer2 = 0.18        Rfactor = 0.3931508092030981
+       Interlayer1 = 0.14
+       Interlayer2 = 0.19        Rfactor = 0.3850228588143233
+       Interlayer1 = 0.14
+       Interlayer2 = 0.20        Rfactor = 0.3849277466652005
+       Interlayer1 = 0.14
+       Interlayer2 = 0.21        Rfactor = 0.3829599832875088
+       Interlayer1 = 0.14
+       Interlayer2 = 0.22        Rfactor = 0.38564165322810856
+       Interlayer1 = 0.14
+       Interlayer2 = 0.23        Rfactor = 0.39225239959848324
+       Interlayer1 = 0.14
+       Interlayer2 = 0.24        Rfactor = 0.38835406533174505
+       Interlayer1 = 0.14
+       Interlayer2 = 0.25        Rfactor = 0.38153805607653113
+       Interlayer1 = 0.14
+       Interlayer2 = 0.26        Rfactor = 0.37212685077616264
+       Interlayer1 = 0.14
+       Interlayer2 = 0.27        Rfactor = 0.3740136650883744
+       Interlayer1 = 0.14
+       Interlayer2 = 0.28        Rfactor = 0.3706936984000128
+       Interlayer1 = 0.14
+       Interlayer2 = 0.29        Rfactor = 0.3762258747301572
+       Interlayer1 = 0.14
+       Interlayer2 = 0.30        Rfactor = 0.3596480903714372
+       Interlayer1 = 0.14
+       Interlayer2 = 0.31        Rfactor = 0.35291401171920106
+       Interlayer1 = 0.14
+       Interlayer2 = 0.32        Rfactor = 0.3617134633094814
+       Interlayer1 = 0.14
+       Interlayer2 = 0.33        Rfactor = 0.3528806052775756
+       Interlayer1 = 0.14
+       Interlayer2 = 0.34        Rfactor = 0.3479714865717717
+       Interlayer1 = 0.14
+       Interlayer2 = 0.35        Rfactor = 0.34702929176916936
+       Interlayer1 = 0.14
+       Interlayer2 = 0.36        Rfactor = 0.3517706729632064
+       Interlayer1 = 0.14
+       Interlayer2 = 0.37        Rfactor = 0.3493272753124847
+       Interlayer1 = 0.14
+       Interlayer2 = 0.38        Rfactor = 0.35232108830652914
+       Interlayer1 = 0.14
+       Interlayer2 = 0.39        Rfactor = 0.3536719430661211
+       Interlayer1 = 0.14
+       Interlayer2 = 0.40        Rfactor = 0.3546215330076773
+       Interlayer1 = 0.15
+       Interlayer2 = 0.13        Rfactor = 0.38632574273544507
+       Interlayer1 = 0.15
+       Interlayer2 = 0.14        Rfactor = 0.38866564760634287
+       Interlayer1 = 0.15
+       Interlayer2 = 0.15        Rfactor = 0.3834424693715217
+       Interlayer1 = 0.15
+       Interlayer2 = 0.16        Rfactor = 0.38793928451240894
+       Interlayer1 = 0.15
+       Interlayer2 = 0.17        Rfactor = 0.39060853501059023
+       Interlayer1 = 0.15
+       Interlayer2 = 0.18        Rfactor = 0.3979396640898673
+       Interlayer1 = 0.15
+       Interlayer2 = 0.19        Rfactor = 0.3919796188144053
+       Interlayer1 = 0.15
+       Interlayer2 = 0.20        Rfactor = 0.392449070172212
+       Interlayer1 = 0.15
+       Interlayer2 = 0.21        Rfactor = 0.3925029390681346
+       Interlayer1 = 0.15
+       Interlayer2 = 0.22        Rfactor = 0.3930662579903271
+       Interlayer1 = 0.15
+       Interlayer2 = 0.23        Rfactor = 0.3920546869474122
+       Interlayer1 = 0.15
+       Interlayer2 = 0.24        Rfactor = 0.3886023197937875
+       Interlayer1 = 0.15
+       Interlayer2 = 0.25        Rfactor = 0.3923798962769957
+       Interlayer1 = 0.15
+       Interlayer2 = 0.26        Rfactor = 0.375228949472855
+       Interlayer1 = 0.15
+       Interlayer2 = 0.27        Rfactor = 0.37945091578054924
+       Interlayer1 = 0.15
+       Interlayer2 = 0.28        Rfactor = 0.38222772835246727
+       Interlayer1 = 0.15
+       Interlayer2 = 0.29        Rfactor = 0.38175622532242925
+       Interlayer1 = 0.15
+       Interlayer2 = 0.30        Rfactor = 0.37897528596576135
+       Interlayer1 = 0.15
+       Interlayer2 = 0.31        Rfactor = 0.376061338804228
+       Interlayer1 = 0.15
+       Interlayer2 = 0.32        Rfactor = 0.3646690076914446
+       Interlayer1 = 0.15
+       Interlayer2 = 0.33        Rfactor = 0.360943138690508
+       Interlayer1 = 0.15
+       Interlayer2 = 0.34        Rfactor = 0.35151059835138415
+       Interlayer1 = 0.15
+       Interlayer2 = 0.35        Rfactor = 0.3491180052251218
+       Interlayer1 = 0.15
+       Interlayer2 = 0.36        Rfactor = 0.35219172874255067
+       Interlayer1 = 0.15
+       Interlayer2 = 0.37        Rfactor = 0.3535046432645606
+       Interlayer1 = 0.15
+       Interlayer2 = 0.38        Rfactor = 0.3565347065374641
+       Interlayer1 = 0.15
+       Interlayer2 = 0.39        Rfactor = 0.3562354610769063
+       Interlayer1 = 0.15
+       Interlayer2 = 0.40        Rfactor = 0.3524956803921294
+       Interlayer1 = 0.16
+       Interlayer2 = 0.13        Rfactor = 0.38882040835193193
+       Interlayer1 = 0.16
+       Interlayer2 = 0.14        Rfactor = 0.38047770553295324
+       Interlayer1 = 0.16
+       Interlayer2 = 0.15        Rfactor = 0.3850295362914141
+       Interlayer1 = 0.16
+       Interlayer2 = 0.16        Rfactor = 0.390519974836462
+       Interlayer1 = 0.16
+       Interlayer2 = 0.17        Rfactor = 0.39444460707126217
+       Interlayer1 = 0.16
+       Interlayer2 = 0.18        Rfactor = 0.396402751271871
+       Interlayer1 = 0.16
+       Interlayer2 = 0.19        Rfactor = 0.39450873014976884
+       Interlayer1 = 0.16
+       Interlayer2 = 0.20        Rfactor = 0.3985744671917599
+       Interlayer1 = 0.16
+       Interlayer2 = 0.21        Rfactor = 0.39765436479174615
+       Interlayer1 = 0.16
+       Interlayer2 = 0.22        Rfactor = 0.3974854017287109
+       Interlayer1 = 0.16
+       Interlayer2 = 0.23        Rfactor = 0.39507018987936743
+       Interlayer1 = 0.16
+       Interlayer2 = 0.24        Rfactor = 0.38950480084154127
+       Interlayer1 = 0.16
+       Interlayer2 = 0.25        Rfactor = 0.37102849876194344
+       Interlayer1 = 0.16
+       Interlayer2 = 0.26        Rfactor = 0.3719347775240319
+       Interlayer1 = 0.16
+       Interlayer2 = 0.27        Rfactor = 0.3782164851568911
+       Interlayer1 = 0.16
+       Interlayer2 = 0.28        Rfactor = 0.3714965848021777
+       Interlayer1 = 0.16
+       Interlayer2 = 0.29        Rfactor = 0.38055133761037513
+       Interlayer1 = 0.16
+       Interlayer2 = 0.30        Rfactor = 0.3708957805227763
+       Interlayer1 = 0.16
+       Interlayer2 = 0.31        Rfactor = 0.36859643902922823
+       Interlayer1 = 0.16
+       Interlayer2 = 0.32        Rfactor = 0.36718593001275207
+       Interlayer1 = 0.16
+       Interlayer2 = 0.33        Rfactor = 0.3634835113710371
+       Interlayer1 = 0.16
+       Interlayer2 = 0.34        Rfactor = 0.35646638010651255
+       Interlayer1 = 0.16
+       Interlayer2 = 0.35        Rfactor = 0.3528863927228211
+       Interlayer1 = 0.16
+       Interlayer2 = 0.36        Rfactor = 0.3472061900472049
+       Interlayer1 = 0.16
+       Interlayer2 = 0.37        Rfactor = 0.35032662071570747
+       Interlayer1 = 0.16
+       Interlayer2 = 0.38        Rfactor = 0.3577713018966693
+       Interlayer1 = 0.16
+       Interlayer2 = 0.39        Rfactor = 0.3588338278709234
+       Interlayer1 = 0.16
+       Interlayer2 = 0.40        Rfactor = 0.3600107665962639
+       Interlayer1 = 0.17
+       Interlayer2 = 0.13        Rfactor = 0.38643339543048394
+       Interlayer1 = 0.17
+       Interlayer2 = 0.14        Rfactor = 0.3782086565513293
+       Interlayer1 = 0.17
+       Interlayer2 = 0.15        Rfactor = 0.38033260422781834
+       Interlayer1 = 0.17
+       Interlayer2 = 0.16        Rfactor = 0.39149736492122006
+       Interlayer1 = 0.17
+       Interlayer2 = 0.17        Rfactor = 0.3923952006520267
+       Interlayer1 = 0.17
+       Interlayer2 = 0.18        Rfactor = 0.39555733314919217
+       Interlayer1 = 0.17
+       Interlayer2 = 0.19        Rfactor = 0.4015719695270984
+       Interlayer1 = 0.17
+       Interlayer2 = 0.20        Rfactor = 0.40537402836085296
+       Interlayer1 = 0.17
+       Interlayer2 = 0.21        Rfactor = 0.4045272329101508
+       Interlayer1 = 0.17
+       Interlayer2 = 0.22        Rfactor = 0.4033521369036058
+       Interlayer1 = 0.17
+       Interlayer2 = 0.23        Rfactor = 0.40147909670957405
+       Interlayer1 = 0.17
+       Interlayer2 = 0.24        Rfactor = 0.38824192483840625
+       Interlayer1 = 0.17
+       Interlayer2 = 0.25        Rfactor = 0.38913837360108716
+       Interlayer1 = 0.17
+       Interlayer2 = 0.26        Rfactor = 0.38554930644007535
+       Interlayer1 = 0.17
+       Interlayer2 = 0.27        Rfactor = 0.38528296274302815
+       Interlayer1 = 0.17
+       Interlayer2 = 0.28        Rfactor = 0.37505205461771607
+       Interlayer1 = 0.17
+       Interlayer2 = 0.29        Rfactor = 0.3926220704188161
+       Interlayer1 = 0.17
+       Interlayer2 = 0.30        Rfactor = 0.39049912432890665
+       Interlayer1 = 0.17
+       Interlayer2 = 0.31        Rfactor = 0.3701534564221634
+       Interlayer1 = 0.17
+       Interlayer2 = 0.32        Rfactor = 0.3831718616245388
+       Interlayer1 = 0.17
+       Interlayer2 = 0.33        Rfactor = 0.3756056440782832
+       Interlayer1 = 0.17
+       Interlayer2 = 0.34        Rfactor = 0.36721461087242685
+       Interlayer1 = 0.17
+       Interlayer2 = 0.35        Rfactor = 0.36747755906970064
+       Interlayer1 = 0.17
+       Interlayer2 = 0.36        Rfactor = 0.359225394569744
+       Interlayer1 = 0.17
+       Interlayer2 = 0.37        Rfactor = 0.3582223176588031
+       Interlayer1 = 0.17
+       Interlayer2 = 0.38        Rfactor = 0.3529463393931598
+       Interlayer1 = 0.17
+       Interlayer2 = 0.39        Rfactor = 0.35824817382513763
+       Interlayer1 = 0.17
+       Interlayer2 = 0.40        Rfactor = 0.35942725541836057
+       Interlayer1 = 0.18
+       Interlayer2 = 0.13        Rfactor = 0.3732961835405249
+       Interlayer1 = 0.18
+       Interlayer2 = 0.14        Rfactor = 0.3749101790170306
+       Interlayer1 = 0.18
+       Interlayer2 = 0.15        Rfactor = 0.3874908666661153
+       Interlayer1 = 0.18
+       Interlayer2 = 0.16        Rfactor = 0.3882075540586291
+       Interlayer1 = 0.18
+       Interlayer2 = 0.17        Rfactor = 0.3855956984279145
+       Interlayer1 = 0.18
+       Interlayer2 = 0.18        Rfactor = 0.38467811571755745
+       Interlayer1 = 0.18
+       Interlayer2 = 0.19        Rfactor = 0.3868865272374988
+       Interlayer1 = 0.18
+       Interlayer2 = 0.20        Rfactor = 0.3823177370129402
+       Interlayer1 = 0.18
+       Interlayer2 = 0.21        Rfactor = 0.37551538088548914
+       Interlayer1 = 0.18
+       Interlayer2 = 0.22        Rfactor = 0.3826434885844042
+       Interlayer1 = 0.18
+       Interlayer2 = 0.23        Rfactor = 0.3623389957073262
+       Interlayer1 = 0.18
+       Interlayer2 = 0.24        Rfactor = 0.36076165608453764
+       Interlayer1 = 0.18
+       Interlayer2 = 0.25        Rfactor = 0.39302356522691934
+       Interlayer1 = 0.18
+       Interlayer2 = 0.26        Rfactor = 0.37571743643164535
+       Interlayer1 = 0.18
+       Interlayer2 = 0.27        Rfactor = 0.3804924224243323
+       Interlayer1 = 0.18
+       Interlayer2 = 0.28        Rfactor = 0.37485871511622804
+       Interlayer1 = 0.18
+       Interlayer2 = 0.29        Rfactor = 0.38000513769265126
+       Interlayer1 = 0.18
+       Interlayer2 = 0.30        Rfactor = 0.37978296459870176
+       Interlayer1 = 0.18
+       Interlayer2 = 0.31        Rfactor = 0.3778447496916369
+       Interlayer1 = 0.18
+       Interlayer2 = 0.32        Rfactor = 0.3836426583077486
+       Interlayer1 = 0.18
+       Interlayer2 = 0.33        Rfactor = 0.3774991927758172
+       Interlayer1 = 0.18
+       Interlayer2 = 0.34        Rfactor = 0.3644821317883817
+       Interlayer1 = 0.18
+       Interlayer2 = 0.35        Rfactor = 0.36313167203397034
+       Interlayer1 = 0.18
+       Interlayer2 = 0.36        Rfactor = 0.352164660989248
+       Interlayer1 = 0.18
+       Interlayer2 = 0.37        Rfactor = 0.3532604160121815
+       Interlayer1 = 0.18
+       Interlayer2 = 0.38        Rfactor = 0.3556030586839647
+       Interlayer1 = 0.18
+       Interlayer2 = 0.39        Rfactor = 0.35326038338159116
+       Interlayer1 = 0.18
+       Interlayer2 = 0.40        Rfactor = 0.3512264572397523
+       Interlayer1 = 0.19
+       Interlayer2 = 0.13        Rfactor = 0.3746628045365638
+       Interlayer1 = 0.19
+       Interlayer2 = 0.14        Rfactor = 0.38264711740906177
+       Interlayer1 = 0.19
+       Interlayer2 = 0.15        Rfactor = 0.388212848977029
+       Interlayer1 = 0.19
+       Interlayer2 = 0.16        Rfactor = 0.38647374096521486
+       Interlayer1 = 0.19
+       Interlayer2 = 0.17        Rfactor = 0.3844629509584385
+       Interlayer1 = 0.19
+       Interlayer2 = 0.18        Rfactor = 0.39060527464492745
+       Interlayer1 = 0.19
+       Interlayer2 = 0.19        Rfactor = 0.3902544631984771
+       Interlayer1 = 0.19
+       Interlayer2 = 0.20        Rfactor = 0.3843326320118163
+       Interlayer1 = 0.19
+       Interlayer2 = 0.21        Rfactor = 0.38792473750951373
+       Interlayer1 = 0.19
+       Interlayer2 = 0.22        Rfactor = 0.384695747444413
+       Interlayer1 = 0.19
+       Interlayer2 = 0.23        Rfactor = 0.3721823209885133
+       Interlayer1 = 0.19
+       Interlayer2 = 0.24        Rfactor = 0.3746365602544141
+       Interlayer1 = 0.19
+       Interlayer2 = 0.25        Rfactor = 0.36557954772935736
+       Interlayer1 = 0.19
+       Interlayer2 = 0.26        Rfactor = 0.39972181834389897
+       Interlayer1 = 0.19
+       Interlayer2 = 0.27        Rfactor = 0.3966678705849526
+       Interlayer1 = 0.19
+       Interlayer2 = 0.28        Rfactor = 0.38554695441456865
+       Interlayer1 = 0.19
+       Interlayer2 = 0.29        Rfactor = 0.3780846446649745
+       Interlayer1 = 0.19
+       Interlayer2 = 0.30        Rfactor = 0.377174614695582
+       Interlayer1 = 0.19
+       Interlayer2 = 0.31        Rfactor = 0.3758830379845668
+       Interlayer1 = 0.19
+       Interlayer2 = 0.32        Rfactor = 0.38992655301248164
+       Interlayer1 = 0.19
+       Interlayer2 = 0.33        Rfactor = 0.3963120956989625
+       Interlayer1 = 0.19
+       Interlayer2 = 0.34        Rfactor = 0.37560227012023223
+       Interlayer1 = 0.19
+       Interlayer2 = 0.35        Rfactor = 0.37856357613971076
+       Interlayer1 = 0.19
+       Interlayer2 = 0.36        Rfactor = 0.3590903156030428
+       Interlayer1 = 0.19
+       Interlayer2 = 0.37        Rfactor = 0.3625106657281931
+       Interlayer1 = 0.19
+       Interlayer2 = 0.38        Rfactor = 0.3672201978753366
+       Interlayer1 = 0.19
+       Interlayer2 = 0.39        Rfactor = 0.36161079922171546
+       Interlayer1 = 0.19
+       Interlayer2 = 0.40        Rfactor = 0.35338548847227136
+       Interlayer1 = 0.20
+       Interlayer2 = 0.13        Rfactor = 0.3688435622736792
+       Interlayer1 = 0.20
+       Interlayer2 = 0.14        Rfactor = 0.3723816231876489
+       Interlayer1 = 0.20
+       Interlayer2 = 0.15        Rfactor = 0.37673425468536714
+       Interlayer1 = 0.20
+       Interlayer2 = 0.16        Rfactor = 0.3839982024829522
+       Interlayer1 = 0.20
+       Interlayer2 = 0.17        Rfactor = 0.3847213204751022
+       Interlayer1 = 0.20
+       Interlayer2 = 0.18        Rfactor = 0.388326794227875
+       Interlayer1 = 0.20
+       Interlayer2 = 0.19        Rfactor = 0.38780544761738417
+       Interlayer1 = 0.20
+       Interlayer2 = 0.20        Rfactor = 0.39287347584866134
+       Interlayer1 = 0.20
+       Interlayer2 = 0.21        Rfactor = 0.38848558526906013
+       Interlayer1 = 0.20
+       Interlayer2 = 0.22        Rfactor = 0.3876201404154325
+       Interlayer1 = 0.20
+       Interlayer2 = 0.23        Rfactor = 0.38040452759143323
+       Interlayer1 = 0.20
+       Interlayer2 = 0.24        Rfactor = 0.37344150048991215
+       Interlayer1 = 0.20
+       Interlayer2 = 0.25        Rfactor = 0.380783583006197
+       Interlayer1 = 0.20
+       Interlayer2 = 0.26        Rfactor = 0.3982306736876701
+       Interlayer1 = 0.20
+       Interlayer2 = 0.27        Rfactor = 0.39065159517233067
+       Interlayer1 = 0.20
+       Interlayer2 = 0.28        Rfactor = 0.3817113761898635
+       Interlayer1 = 0.20
+       Interlayer2 = 0.29        Rfactor = 0.3780149375365079
+       Interlayer1 = 0.20
+       Interlayer2 = 0.30        Rfactor = 0.38055181845661556
+       Interlayer1 = 0.20
+       Interlayer2 = 0.31        Rfactor = 0.38049808746187963
+       Interlayer1 = 0.20
+       Interlayer2 = 0.32        Rfactor = 0.39824381521142554
+       Interlayer1 = 0.20
+       Interlayer2 = 0.33        Rfactor = 0.3908521301122502
+       Interlayer1 = 0.20
+       Interlayer2 = 0.34        Rfactor = 0.38695511779335245
+       Interlayer1 = 0.20
+       Interlayer2 = 0.35        Rfactor = 0.3769511414112874
+       Interlayer1 = 0.20
+       Interlayer2 = 0.36        Rfactor = 0.3638749190280297
+       Interlayer1 = 0.20
+       Interlayer2 = 0.37        Rfactor = 0.36536474091253257
+       Interlayer1 = 0.20
+       Interlayer2 = 0.38        Rfactor = 0.3665334842048881
+       Interlayer1 = 0.20
+       Interlayer2 = 0.39        Rfactor = 0.36603301710587444
+       Interlayer1 = 0.20
+       Interlayer2 = 0.40        Rfactor = 0.3668347779017334
+       Interlayer1 = 0.21
+       Interlayer2 = 0.13        Rfactor = 0.36614139217689
+       Interlayer1 = 0.21
+       Interlayer2 = 0.14        Rfactor = 0.3681512810688959
+       Interlayer1 = 0.21
+       Interlayer2 = 0.15        Rfactor = 0.3730139438204129
+       Interlayer1 = 0.21
+       Interlayer2 = 0.16        Rfactor = 0.3747115176852401
+       Interlayer1 = 0.21
+       Interlayer2 = 0.17        Rfactor = 0.37826474119195086
+       Interlayer1 = 0.21
+       Interlayer2 = 0.18        Rfactor = 0.3782525184044099
+       Interlayer1 = 0.21
+       Interlayer2 = 0.19        Rfactor = 0.38363940234040395
+       Interlayer1 = 0.21
+       Interlayer2 = 0.20        Rfactor = 0.3846155294029256
+       Interlayer1 = 0.21
+       Interlayer2 = 0.21        Rfactor = 0.3835392897480271
+       Interlayer1 = 0.21
+       Interlayer2 = 0.22        Rfactor = 0.3928123142762644
+       Interlayer1 = 0.21
+       Interlayer2 = 0.23        Rfactor = 0.3743012975289998
+       Interlayer1 = 0.21
+       Interlayer2 = 0.24        Rfactor = 0.37965654821515793
+       Interlayer1 = 0.21
+       Interlayer2 = 0.25        Rfactor = 0.37741734089737117
+       Interlayer1 = 0.21
+       Interlayer2 = 0.26        Rfactor = 0.3783290520249051
+       Interlayer1 = 0.21
+       Interlayer2 = 0.27        Rfactor = 0.3789646220455034
+       Interlayer1 = 0.21
+       Interlayer2 = 0.28        Rfactor = 0.39951054056536095
+       Interlayer1 = 0.21
+       Interlayer2 = 0.29        Rfactor = 0.39205192940720507
+       Interlayer1 = 0.21
+       Interlayer2 = 0.30        Rfactor = 0.38601152874667616
+       Interlayer1 = 0.21
+       Interlayer2 = 0.31        Rfactor = 0.3887316237139191
+       Interlayer1 = 0.21
+       Interlayer2 = 0.32        Rfactor = 0.3958693298791226
+       Interlayer1 = 0.21
+       Interlayer2 = 0.33        Rfactor = 0.3932066027459415
+       Interlayer1 = 0.21
+       Interlayer2 = 0.34        Rfactor = 0.3887353165917709
+       Interlayer1 = 0.21
+       Interlayer2 = 0.35        Rfactor = 0.3856462761893113
+       Interlayer1 = 0.21
+       Interlayer2 = 0.36        Rfactor = 0.3673774525565996
+       Interlayer1 = 0.21
+       Interlayer2 = 0.37        Rfactor = 0.3658834847119596
+       Interlayer1 = 0.21
+       Interlayer2 = 0.38        Rfactor = 0.3681367689813868
+       Interlayer1 = 0.21
+       Interlayer2 = 0.39        Rfactor = 0.37099492579277327
+       Interlayer1 = 0.21
+       Interlayer2 = 0.40        Rfactor = 0.3718268685296254
+       Interlayer1 = 0.22
+       Interlayer2 = 0.13        Rfactor = 0.35818200561333285
+       Interlayer1 = 0.22
+       Interlayer2 = 0.14        Rfactor = 0.36509414244147853
+       Interlayer1 = 0.22
+       Interlayer2 = 0.15        Rfactor = 0.36870010983112633
+       Interlayer1 = 0.22
+       Interlayer2 = 0.16        Rfactor = 0.37028398104028815
+       Interlayer1 = 0.22
+       Interlayer2 = 0.17        Rfactor = 0.370277930904453
+       Interlayer1 = 0.22
+       Interlayer2 = 0.18        Rfactor = 0.37624342817552314
+       Interlayer1 = 0.22
+       Interlayer2 = 0.19        Rfactor = 0.38261008448869427
+       Interlayer1 = 0.22
+       Interlayer2 = 0.20        Rfactor = 0.38106093472279173
+       Interlayer1 = 0.22
+       Interlayer2 = 0.21        Rfactor = 0.3886087776514735
+       Interlayer1 = 0.22
+       Interlayer2 = 0.22        Rfactor = 0.3863034610249967
+       Interlayer1 = 0.22
+       Interlayer2 = 0.23        Rfactor = 0.3757371121257828
+       Interlayer1 = 0.22
+       Interlayer2 = 0.24        Rfactor = 0.37499006351627673
+       Interlayer1 = 0.22
+       Interlayer2 = 0.25        Rfactor = 0.37868982274238444
+       Interlayer1 = 0.22
+       Interlayer2 = 0.26        Rfactor = 0.38052389363097655
+       Interlayer1 = 0.22
+       Interlayer2 = 0.27        Rfactor = 0.37951635858349203
+       Interlayer1 = 0.22
+       Interlayer2 = 0.28        Rfactor = 0.40022643706559907
+       Interlayer1 = 0.22
+       Interlayer2 = 0.29        Rfactor = 0.37834426310520064
+       Interlayer1 = 0.22
+       Interlayer2 = 0.30        Rfactor = 0.3867867651608043
+       Interlayer1 = 0.22
+       Interlayer2 = 0.31        Rfactor = 0.38366122156437793
+       Interlayer1 = 0.22
+       Interlayer2 = 0.32        Rfactor = 0.38648888064841325
+       Interlayer1 = 0.22
+       Interlayer2 = 0.33        Rfactor = 0.3892472027622578
+       Interlayer1 = 0.22
+       Interlayer2 = 0.34        Rfactor = 0.3813371756304071
+       Interlayer1 = 0.22
+       Interlayer2 = 0.35        Rfactor = 0.3833704698367584
+       Interlayer1 = 0.22
+       Interlayer2 = 0.36        Rfactor = 0.3627391192446879
+       Interlayer1 = 0.22
+       Interlayer2 = 0.37        Rfactor = 0.3622469988686193
+       Interlayer1 = 0.22
+       Interlayer2 = 0.38        Rfactor = 0.3678423971055301
+       Interlayer1 = 0.22
+       Interlayer2 = 0.39        Rfactor = 0.36504023507437283
+       Interlayer1 = 0.22
+       Interlayer2 = 0.40        Rfactor = 0.3717988258220779
+       Interlayer1 = 0.23
+       Interlayer2 = 0.13        Rfactor = 0.36076708107347155
+       Interlayer1 = 0.23
+       Interlayer2 = 0.14        Rfactor = 0.3658283026379031
+       Interlayer1 = 0.23
+       Interlayer2 = 0.15        Rfactor = 0.3674454239549417
+       Interlayer1 = 0.23
+       Interlayer2 = 0.16        Rfactor = 0.3672548711682927
+       Interlayer1 = 0.23
+       Interlayer2 = 0.17        Rfactor = 0.37187816587567346
+       Interlayer1 = 0.23
+       Interlayer2 = 0.18        Rfactor = 0.37119163425467994
+       Interlayer1 = 0.23
+       Interlayer2 = 0.19        Rfactor = 0.381090321233835
+       Interlayer1 = 0.23
+       Interlayer2 = 0.20        Rfactor = 0.36639005085344417
+       Interlayer1 = 0.23
+       Interlayer2 = 0.21        Rfactor = 0.3809368816124087
+       Interlayer1 = 0.23
+       Interlayer2 = 0.22        Rfactor = 0.3902228959745764
+       Interlayer1 = 0.23
+       Interlayer2 = 0.23        Rfactor = 0.375549038135446
+       Interlayer1 = 0.23
+       Interlayer2 = 0.24        Rfactor = 0.37825991752956617
+       Interlayer1 = 0.23
+       Interlayer2 = 0.25        Rfactor = 0.3785171197712457
+       Interlayer1 = 0.23
+       Interlayer2 = 0.26        Rfactor = 0.3812756005091106
+       Interlayer1 = 0.23
+       Interlayer2 = 0.27        Rfactor = 0.37345687885822504
+       Interlayer1 = 0.23
+       Interlayer2 = 0.28        Rfactor = 0.37708674344556437
+       Interlayer1 = 0.23
+       Interlayer2 = 0.29        Rfactor = 0.39145410052475843
+       Interlayer1 = 0.23
+       Interlayer2 = 0.30        Rfactor = 0.3936294545445233
+       Interlayer1 = 0.23
+       Interlayer2 = 0.31        Rfactor = 0.39936745561813397
+       Interlayer1 = 0.23
+       Interlayer2 = 0.32        Rfactor = 0.40696675314500164
+       Interlayer1 = 0.23
+       Interlayer2 = 0.33        Rfactor = 0.3898448879852657
+       Interlayer1 = 0.23
+       Interlayer2 = 0.34        Rfactor = 0.3927884363068243
+       Interlayer1 = 0.23
+       Interlayer2 = 0.35        Rfactor = 0.39124213186444873
+       Interlayer1 = 0.23
+       Interlayer2 = 0.36        Rfactor = 0.3821522045450084
+       Interlayer1 = 0.23
+       Interlayer2 = 0.37        Rfactor = 0.3838118871444423
+       Interlayer1 = 0.23
+       Interlayer2 = 0.38        Rfactor = 0.37734017526456487
+       Interlayer1 = 0.23
+       Interlayer2 = 0.39        Rfactor = 0.3763393871845217
+       Interlayer1 = 0.23
+       Interlayer2 = 0.40        Rfactor = 0.3810640070403264
+       Interlayer1 = 0.24
+       Interlayer2 = 0.13        Rfactor = 0.3548306837587069
+       Interlayer1 = 0.24
+       Interlayer2 = 0.14        Rfactor = 0.3616104785186196
+       Interlayer1 = 0.24
+       Interlayer2 = 0.15        Rfactor = 0.3558176651818443
+       Interlayer1 = 0.24
+       Interlayer2 = 0.16        Rfactor = 0.3667120998239353
+       Interlayer1 = 0.24
+       Interlayer2 = 0.17        Rfactor = 0.3668424110696323
+       Interlayer1 = 0.24
+       Interlayer2 = 0.18        Rfactor = 0.36711153327433715
+       Interlayer1 = 0.24
+       Interlayer2 = 0.19        Rfactor = 0.37423357275964053
+       Interlayer1 = 0.24
+       Interlayer2 = 0.20        Rfactor = 0.3749028260504667
+       Interlayer1 = 0.24
+       Interlayer2 = 0.21        Rfactor = 0.3889378740549431
+       Interlayer1 = 0.24
+       Interlayer2 = 0.22        Rfactor = 0.37123410442204147
+       Interlayer1 = 0.24
+       Interlayer2 = 0.23        Rfactor = 0.365128151906169
+       Interlayer1 = 0.24
+       Interlayer2 = 0.24        Rfactor = 0.3659368174509391
+       Interlayer1 = 0.24
+       Interlayer2 = 0.25        Rfactor = 0.3707585849097401
+       Interlayer1 = 0.24
+       Interlayer2 = 0.26        Rfactor = 0.37886612656126684
+       Interlayer1 = 0.24
+       Interlayer2 = 0.27        Rfactor = 0.38240998379357577
+       Interlayer1 = 0.24
+       Interlayer2 = 0.28        Rfactor = 0.3885169209946434
+       Interlayer1 = 0.24
+       Interlayer2 = 0.29        Rfactor = 0.38919691441319115
+       Interlayer1 = 0.24
+       Interlayer2 = 0.30        Rfactor = 0.3791114417852323
+       Interlayer1 = 0.24
+       Interlayer2 = 0.31        Rfactor = 0.3977562526407407
+       Interlayer1 = 0.24
+       Interlayer2 = 0.32        Rfactor = 0.40341657563528865
+       Interlayer1 = 0.24
+       Interlayer2 = 0.33        Rfactor = 0.39623390550251864
+       Interlayer1 = 0.24
+       Interlayer2 = 0.34        Rfactor = 0.3962182067924316
+       Interlayer1 = 0.24
+       Interlayer2 = 0.35        Rfactor = 0.39068618655035425
+       Interlayer1 = 0.24
+       Interlayer2 = 0.36        Rfactor = 0.3884600408047705
+       Interlayer1 = 0.24
+       Interlayer2 = 0.37        Rfactor = 0.382851716762474
+       Interlayer1 = 0.24
+       Interlayer2 = 0.38        Rfactor = 0.38207369030758886
+       Interlayer1 = 0.24
+       Interlayer2 = 0.39        Rfactor = 0.3774384139198248
+       Interlayer1 = 0.24
+       Interlayer2 = 0.40        Rfactor = 0.38387121008716735
+       Interlayer1 = 0.25
+       Interlayer2 = 0.13        Rfactor = 0.34857228043530547
+       Interlayer1 = 0.25
+       Interlayer2 = 0.14        Rfactor = 0.3631225524726009
+       Interlayer1 = 0.25
+       Interlayer2 = 0.15        Rfactor = 0.3739858341825573
+       Interlayer1 = 0.25
+       Interlayer2 = 0.16        Rfactor = 0.3709619942228239
+       Interlayer1 = 0.25
+       Interlayer2 = 0.17        Rfactor = 0.3730873181438119
+       Interlayer1 = 0.25
+       Interlayer2 = 0.18        Rfactor = 0.37397355917756614
+       Interlayer1 = 0.25
+       Interlayer2 = 0.19        Rfactor = 0.3751834823180358
+       Interlayer1 = 0.25
+       Interlayer2 = 0.20        Rfactor = 0.380770490063028
+       Interlayer1 = 0.25
+       Interlayer2 = 0.21        Rfactor = 0.38369453457303704
+       Interlayer1 = 0.25
+       Interlayer2 = 0.22        Rfactor = 0.3932286899365971
+       Interlayer1 = 0.25
+       Interlayer2 = 0.23        Rfactor = 0.36476453056957314
+       Interlayer1 = 0.25
+       Interlayer2 = 0.24        Rfactor = 0.3679045806394811
+       Interlayer1 = 0.25
+       Interlayer2 = 0.25        Rfactor = 0.3715415469044012
+       Interlayer1 = 0.25
+       Interlayer2 = 0.26        Rfactor = 0.37143902948405877
+       Interlayer1 = 0.25
+       Interlayer2 = 0.27        Rfactor = 0.39290979562615425
+       Interlayer1 = 0.25
+       Interlayer2 = 0.28        Rfactor = 0.39118209286950817
+       Interlayer1 = 0.25
+       Interlayer2 = 0.29        Rfactor = 0.39402548745398475
+       Interlayer1 = 0.25
+       Interlayer2 = 0.30        Rfactor = 0.3823652583878661
+       Interlayer1 = 0.25
+       Interlayer2 = 0.31        Rfactor = 0.3823891993036047
+       Interlayer1 = 0.25
+       Interlayer2 = 0.32        Rfactor = 0.4142364520530307
+       Interlayer1 = 0.25
+       Interlayer2 = 0.33        Rfactor = 0.4090200684014257
+       Interlayer1 = 0.25
+       Interlayer2 = 0.34        Rfactor = 0.4010550911798335
+       Interlayer1 = 0.25
+       Interlayer2 = 0.35        Rfactor = 0.40301450375431297
+       Interlayer1 = 0.25
+       Interlayer2 = 0.36        Rfactor = 0.39607473830920215
+       Interlayer1 = 0.25
+       Interlayer2 = 0.37        Rfactor = 0.3936453649514101
+       Interlayer1 = 0.25
+       Interlayer2 = 0.38        Rfactor = 0.3916524860439897
+       Interlayer1 = 0.25
+       Interlayer2 = 0.39        Rfactor = 0.39314674492635776
+       Interlayer1 = 0.25
+       Interlayer2 = 0.40        Rfactor = 0.3899992722452702
+       Interlayer1 = 0.26
+       Interlayer2 = 0.13        Rfactor = 0.3468341848704802
+       Interlayer1 = 0.26
+       Interlayer2 = 0.14        Rfactor = 0.366219139500355
+       Interlayer1 = 0.26
+       Interlayer2 = 0.15        Rfactor = 0.3677059606445743
+       Interlayer1 = 0.26
+       Interlayer2 = 0.16        Rfactor = 0.3796793133864038
+       Interlayer1 = 0.26
+       Interlayer2 = 0.17        Rfactor = 0.3790660075895385
+       Interlayer1 = 0.26
+       Interlayer2 = 0.18        Rfactor = 0.3702452100977944
+       Interlayer1 = 0.26
+       Interlayer2 = 0.19        Rfactor = 0.37909451311234843
+       Interlayer1 = 0.26
+       Interlayer2 = 0.20        Rfactor = 0.3828951621559875
+       Interlayer1 = 0.26
+       Interlayer2 = 0.21        Rfactor = 0.3886306435551535
+       Interlayer1 = 0.26
+       Interlayer2 = 0.22        Rfactor = 0.39307389013813854
+       Interlayer1 = 0.26
+       Interlayer2 = 0.23        Rfactor = 0.38320614878199305
+       Interlayer1 = 0.26
+       Interlayer2 = 0.24        Rfactor = 0.3706102098196533
+       Interlayer1 = 0.26
+       Interlayer2 = 0.25        Rfactor = 0.37208967312680363
+       Interlayer1 = 0.26
+       Interlayer2 = 0.26        Rfactor = 0.37522899396272413
+       Interlayer1 = 0.26
+       Interlayer2 = 0.27        Rfactor = 0.3765741075024647
+       Interlayer1 = 0.26
+       Interlayer2 = 0.28        Rfactor = 0.37903269739198087
+       Interlayer1 = 0.26
+       Interlayer2 = 0.29        Rfactor = 0.3924481331711539
+       Interlayer1 = 0.26
+       Interlayer2 = 0.30        Rfactor = 0.38270562431355515
+       Interlayer1 = 0.26
+       Interlayer2 = 0.31        Rfactor = 0.386870922657745
+       Interlayer1 = 0.26
+       Interlayer2 = 0.32        Rfactor = 0.40622467117651523
+       Interlayer1 = 0.26
+       Interlayer2 = 0.33        Rfactor = 0.4137818649458005
+       Interlayer1 = 0.26
+       Interlayer2 = 0.34        Rfactor = 0.4104150451663865
+       Interlayer1 = 0.26
+       Interlayer2 = 0.35        Rfactor = 0.4104966017386175
+       Interlayer1 = 0.26
+       Interlayer2 = 0.36        Rfactor = 0.40718789335349476
+       Interlayer1 = 0.26
+       Interlayer2 = 0.37        Rfactor = 0.39984061979428714
+       Interlayer1 = 0.26
+       Interlayer2 = 0.38        Rfactor = 0.4037105270700831
+       Interlayer1 = 0.26
+       Interlayer2 = 0.39        Rfactor = 0.40022625953358704
+       Interlayer1 = 0.26
+       Interlayer2 = 0.40        Rfactor = 0.3962534745334438
+       Interlayer1 = 0.27
+       Interlayer2 = 0.13        Rfactor = 0.34838805337606815
+       Interlayer1 = 0.27
+       Interlayer2 = 0.14        Rfactor = 0.3540435347413713
+       Interlayer1 = 0.27
+       Interlayer2 = 0.15        Rfactor = 0.3574161538900061
+       Interlayer1 = 0.27
+       Interlayer2 = 0.16        Rfactor = 0.36724089270128824
+       Interlayer1 = 0.27
+       Interlayer2 = 0.17        Rfactor = 0.364677577015886
+       Interlayer1 = 0.27
+       Interlayer2 = 0.18        Rfactor = 0.37389513649209466
+       Interlayer1 = 0.27
+       Interlayer2 = 0.19        Rfactor = 0.3785710399964521
+       Interlayer1 = 0.27
+       Interlayer2 = 0.20        Rfactor = 0.39017525208929293
+       Interlayer1 = 0.27
+       Interlayer2 = 0.21        Rfactor = 0.3950960775820852
+       Interlayer1 = 0.27
+       Interlayer2 = 0.22        Rfactor = 0.40258023721694164
+       Interlayer1 = 0.27
+       Interlayer2 = 0.23        Rfactor = 0.3962734074201502
+       Interlayer1 = 0.27
+       Interlayer2 = 0.24        Rfactor = 0.4023650769593477
+       Interlayer1 = 0.27
+       Interlayer2 = 0.25        Rfactor = 0.3704650296608457
+       Interlayer1 = 0.27
+       Interlayer2 = 0.26        Rfactor = 0.3712119331040119
+       Interlayer1 = 0.27
+       Interlayer2 = 0.27        Rfactor = 0.37414597800740657
+       Interlayer1 = 0.27
+       Interlayer2 = 0.28        Rfactor = 0.37575592727033263
+       Interlayer1 = 0.27
+       Interlayer2 = 0.29        Rfactor = 0.3747729922241533
+       Interlayer1 = 0.27
+       Interlayer2 = 0.30        Rfactor = 0.38432017065745794
+       Interlayer1 = 0.27
+       Interlayer2 = 0.31        Rfactor = 0.38616765837984973
+       Interlayer1 = 0.27
+       Interlayer2 = 0.32        Rfactor = 0.4020956338645638
+       Interlayer1 = 0.27
+       Interlayer2 = 0.33        Rfactor = 0.40371050130525377
+       Interlayer1 = 0.27
+       Interlayer2 = 0.34        Rfactor = 0.38318459663570165
+       Interlayer1 = 0.27
+       Interlayer2 = 0.35        Rfactor = 0.4124962713423742
+       Interlayer1 = 0.27
+       Interlayer2 = 0.36        Rfactor = 0.4020103724180229
+       Interlayer1 = 0.27
+       Interlayer2 = 0.37        Rfactor = 0.40075139203832333
+       Interlayer1 = 0.27
+       Interlayer2 = 0.38        Rfactor = 0.40236106737708716
+       Interlayer1 = 0.27
+       Interlayer2 = 0.39        Rfactor = 0.4013368733192355
+       Interlayer1 = 0.27
+       Interlayer2 = 0.40        Rfactor = 0.3995607811685265
+       Interlayer1 = 0.28
+       Interlayer2 = 0.13        Rfactor = 0.349609457438767
+       Interlayer1 = 0.28
+       Interlayer2 = 0.14        Rfactor = 0.3552048571614093
+       Interlayer1 = 0.28
+       Interlayer2 = 0.15        Rfactor = 0.3579653801838455
+       Interlayer1 = 0.28
+       Interlayer2 = 0.16        Rfactor = 0.36140704570827364
+       Interlayer1 = 0.28
+       Interlayer2 = 0.17        Rfactor = 0.36829520121836784
+       Interlayer1 = 0.28
+       Interlayer2 = 0.18        Rfactor = 0.3736287086930961
+       Interlayer1 = 0.28
+       Interlayer2 = 0.19        Rfactor = 0.38455299669741444
+       Interlayer1 = 0.28
+       Interlayer2 = 0.20        Rfactor = 0.3903620928720822
+       Interlayer1 = 0.28
+       Interlayer2 = 0.21        Rfactor = 0.397593125229507
+       Interlayer1 = 0.28
+       Interlayer2 = 0.22        Rfactor = 0.39658611715207
+       Interlayer1 = 0.28
+       Interlayer2 = 0.23        Rfactor = 0.39794402373452675
+       Interlayer1 = 0.28
+       Interlayer2 = 0.24        Rfactor = 0.3999045889708481
+       Interlayer1 = 0.28
+       Interlayer2 = 0.25        Rfactor = 0.37204126268717236
+       Interlayer1 = 0.28
+       Interlayer2 = 0.26        Rfactor = 0.3772152385815294
+       Interlayer1 = 0.28
+       Interlayer2 = 0.27        Rfactor = 0.37764676306654654
+       Interlayer1 = 0.28
+       Interlayer2 = 0.28        Rfactor = 0.3795230704974893
+       Interlayer1 = 0.28
+       Interlayer2 = 0.29        Rfactor = 0.3844692546445867
+       Interlayer1 = 0.28
+       Interlayer2 = 0.30        Rfactor = 0.38979250125471143
+       Interlayer1 = 0.28
+       Interlayer2 = 0.31        Rfactor = 0.39129047709992604
+       Interlayer1 = 0.28
+       Interlayer2 = 0.32        Rfactor = 0.41479351065570685
+       Interlayer1 = 0.28
+       Interlayer2 = 0.33        Rfactor = 0.40571442950582426
+       Interlayer1 = 0.28
+       Interlayer2 = 0.34        Rfactor = 0.38636819100041414
+       Interlayer1 = 0.28
+       Interlayer2 = 0.35        Rfactor = 0.38940104064046877
+       Interlayer1 = 0.28
+       Interlayer2 = 0.36        Rfactor = 0.42018878543757315
+       Interlayer1 = 0.28
+       Interlayer2 = 0.37        Rfactor = 0.4124230842773991
+       Interlayer1 = 0.28
+       Interlayer2 = 0.38        Rfactor = 0.41136082615629244
+       Interlayer1 = 0.28
+       Interlayer2 = 0.39        Rfactor = 0.40794699224854036
+       Interlayer1 = 0.28
+       Interlayer2 = 0.40        Rfactor = 0.4036390843435697
+       Interlayer1 = 0.29
+       Interlayer2 = 0.13        Rfactor = 0.35065189426913457
+       Interlayer1 = 0.29
+       Interlayer2 = 0.14        Rfactor = 0.35689979421760254
+       Interlayer1 = 0.29
+       Interlayer2 = 0.15        Rfactor = 0.35354865070895386
+       Interlayer1 = 0.29
+       Interlayer2 = 0.16        Rfactor = 0.36204465941157987
+       Interlayer1 = 0.29
+       Interlayer2 = 0.17        Rfactor = 0.36712741893725154
+       Interlayer1 = 0.29
+       Interlayer2 = 0.18        Rfactor = 0.3678938519945393
+       Interlayer1 = 0.29
+       Interlayer2 = 0.19        Rfactor = 0.36962361560954277
+       Interlayer1 = 0.29
+       Interlayer2 = 0.20        Rfactor = 0.3892147831798396
+       Interlayer1 = 0.29
+       Interlayer2 = 0.21        Rfactor = 0.3946810350410642
+       Interlayer1 = 0.29
+       Interlayer2 = 0.22        Rfactor = 0.3969478071811722
+       Interlayer1 = 0.29
+       Interlayer2 = 0.23        Rfactor = 0.39524991662701847
+       Interlayer1 = 0.29
+       Interlayer2 = 0.24        Rfactor = 0.3953074641858383
+       Interlayer1 = 0.29
+       Interlayer2 = 0.25        Rfactor = 0.3943091143081039
+       Interlayer1 = 0.29
+       Interlayer2 = 0.26        Rfactor = 0.391756168050807
+       Interlayer1 = 0.29
+       Interlayer2 = 0.27        Rfactor = 0.3771392512369011
+       Interlayer1 = 0.29
+       Interlayer2 = 0.28        Rfactor = 0.38386780879903953
+       Interlayer1 = 0.29
+       Interlayer2 = 0.29        Rfactor = 0.3849074337875239
+       Interlayer1 = 0.29
+       Interlayer2 = 0.30        Rfactor = 0.39035196636988184
+       Interlayer1 = 0.29
+       Interlayer2 = 0.31        Rfactor = 0.3972244550512755
+       Interlayer1 = 0.29
+       Interlayer2 = 0.32        Rfactor = 0.4146839933963525
+       Interlayer1 = 0.29
+       Interlayer2 = 0.33        Rfactor = 0.40570903576594286
+       Interlayer1 = 0.29
+       Interlayer2 = 0.34        Rfactor = 0.38927644670068634
+       Interlayer1 = 0.29
+       Interlayer2 = 0.35        Rfactor = 0.3964732332911546
+       Interlayer1 = 0.29
+       Interlayer2 = 0.36        Rfactor = 0.42472738389303594
+       Interlayer1 = 0.29
+       Interlayer2 = 0.37        Rfactor = 0.42043811894072275
+       Interlayer1 = 0.29
+       Interlayer2 = 0.38        Rfactor = 0.4247630439226472
+       Interlayer1 = 0.29
+       Interlayer2 = 0.39        Rfactor = 0.4126739033647958
+       Interlayer1 = 0.29
+       Interlayer2 = 0.40        Rfactor = 0.3989371952189433
+       Interlayer1 = 0.30
+       Interlayer2 = 0.13        Rfactor = 0.3488828490284651
+       Interlayer1 = 0.30
+       Interlayer2 = 0.14        Rfactor = 0.3470586704001769
+       Interlayer1 = 0.30
+       Interlayer2 = 0.15        Rfactor = 0.35981311665769705
+       Interlayer1 = 0.30
+       Interlayer2 = 0.16        Rfactor = 0.3621104161451925
+       Interlayer1 = 0.30
+       Interlayer2 = 0.17        Rfactor = 0.3680677391586771
+       Interlayer1 = 0.30
+       Interlayer2 = 0.18        Rfactor = 0.3699382338088332
+       Interlayer1 = 0.30
+       Interlayer2 = 0.19        Rfactor = 0.37354432927342873
+       Interlayer1 = 0.30
+       Interlayer2 = 0.20        Rfactor = 0.37966265227591034
+       Interlayer1 = 0.30
+       Interlayer2 = 0.21        Rfactor = 0.3864291551598745
+       Interlayer1 = 0.30
+       Interlayer2 = 0.22        Rfactor = 0.3880786157594413
+       Interlayer1 = 0.30
+       Interlayer2 = 0.23        Rfactor = 0.3856662666807024
+       Interlayer1 = 0.30
+       Interlayer2 = 0.24        Rfactor = 0.3893928870411724
+       Interlayer1 = 0.30
+       Interlayer2 = 0.25        Rfactor = 0.38908737147522016
+       Interlayer1 = 0.30
+       Interlayer2 = 0.26        Rfactor = 0.38623189262016394
+       Interlayer1 = 0.30
+       Interlayer2 = 0.27        Rfactor = 0.38068959741184133
+       Interlayer1 = 0.30
+       Interlayer2 = 0.28        Rfactor = 0.3829043987113366
+       Interlayer1 = 0.30
+       Interlayer2 = 0.29        Rfactor = 0.3850180602779995
+       Interlayer1 = 0.30
+       Interlayer2 = 0.30        Rfactor = 0.3958510227975143
+       Interlayer1 = 0.30
+       Interlayer2 = 0.31        Rfactor = 0.39622983372078335
+       Interlayer1 = 0.30
+       Interlayer2 = 0.32        Rfactor = 0.41211657495224086
+       Interlayer1 = 0.30
+       Interlayer2 = 0.33        Rfactor = 0.4083851181948229
+       Interlayer1 = 0.30
+       Interlayer2 = 0.34        Rfactor = 0.3945092054220713
+       Interlayer1 = 0.30
+       Interlayer2 = 0.35        Rfactor = 0.3994500944479167
+       Interlayer1 = 0.30
+       Interlayer2 = 0.36        Rfactor = 0.4119978828430872
+       Interlayer1 = 0.30
+       Interlayer2 = 0.37        Rfactor = 0.4116775108599393
+       Interlayer1 = 0.30
+       Interlayer2 = 0.38        Rfactor = 0.40923148053715347
+       Interlayer1 = 0.30
+       Interlayer2 = 0.39        Rfactor = 0.4179070487305779
+       Interlayer1 = 0.30
+       Interlayer2 = 0.40        Rfactor = 0.4068834766764569
+       Interlayer1 = 0.31
+       Interlayer2 = 0.13        Rfactor = 0.3411047824618181
+       Interlayer1 = 0.31
+       Interlayer2 = 0.14        Rfactor = 0.34788523610661487
+       Interlayer1 = 0.31
+       Interlayer2 = 0.15        Rfactor = 0.3517123618030711
+       Interlayer1 = 0.31
+       Interlayer2 = 0.16        Rfactor = 0.35666218589782644
+       Interlayer1 = 0.31
+       Interlayer2 = 0.17        Rfactor = 0.3640698403784069
+       Interlayer1 = 0.31
+       Interlayer2 = 0.18        Rfactor = 0.36879757413149544
+       Interlayer1 = 0.31
+       Interlayer2 = 0.19        Rfactor = 0.37468545936042885
+       Interlayer1 = 0.31
+       Interlayer2 = 0.20        Rfactor = 0.36766915929613164
+       Interlayer1 = 0.31
+       Interlayer2 = 0.21        Rfactor = 0.38159089377439315
+       Interlayer1 = 0.31
+       Interlayer2 = 0.22        Rfactor = 0.3861384261112383
+       Interlayer1 = 0.31
+       Interlayer2 = 0.23        Rfactor = 0.3799285295549549
+       Interlayer1 = 0.31
+       Interlayer2 = 0.24        Rfactor = 0.3771775350167134
+       Interlayer1 = 0.31
+       Interlayer2 = 0.25        Rfactor = 0.3779335546480226
+       Interlayer1 = 0.31
+       Interlayer2 = 0.26        Rfactor = 0.37760246555027477
+       Interlayer1 = 0.31
+       Interlayer2 = 0.27        Rfactor = 0.3780118716728342
+       Interlayer1 = 0.31
+       Interlayer2 = 0.28        Rfactor = 0.3964004235075448
+       Interlayer1 = 0.31
+       Interlayer2 = 0.29        Rfactor = 0.38848315438844044
+       Interlayer1 = 0.31
+       Interlayer2 = 0.30        Rfactor = 0.393023531886527
+       Interlayer1 = 0.31
+       Interlayer2 = 0.31        Rfactor = 0.3942219714941294
+       Interlayer1 = 0.31
+       Interlayer2 = 0.32        Rfactor = 0.41020284570361226
+       Interlayer1 = 0.31
+       Interlayer2 = 0.33        Rfactor = 0.4121657764927103
+       Interlayer1 = 0.31
+       Interlayer2 = 0.34        Rfactor = 0.3975766807253729
+       Interlayer1 = 0.31
+       Interlayer2 = 0.35        Rfactor = 0.4007738288023373
+       Interlayer1 = 0.31
+       Interlayer2 = 0.36        Rfactor = 0.4180931986184121
+       Interlayer1 = 0.31
+       Interlayer2 = 0.37        Rfactor = 0.4152081861143132
+       Interlayer1 = 0.31
+       Interlayer2 = 0.38        Rfactor = 0.41531274611627567
+       Interlayer1 = 0.31
+       Interlayer2 = 0.39        Rfactor = 0.4162219484546472
+       Interlayer1 = 0.31
+       Interlayer2 = 0.40        Rfactor = 0.41288194382876037
+       Interlayer1 = 0.32
+       Interlayer2 = 0.13        Rfactor = 0.34131708928767757
+       Interlayer1 = 0.32
+       Interlayer2 = 0.14        Rfactor = 0.3428223020046858
+       Interlayer1 = 0.32
+       Interlayer2 = 0.15        Rfactor = 0.3553892940763436
+       Interlayer1 = 0.32
+       Interlayer2 = 0.16        Rfactor = 0.35342730155863405
+       Interlayer1 = 0.32
+       Interlayer2 = 0.17        Rfactor = 0.3627493277928859
+       Interlayer1 = 0.32
+       Interlayer2 = 0.18        Rfactor = 0.3674140440175159
+       Interlayer1 = 0.32
+       Interlayer2 = 0.19        Rfactor = 0.37228022576562103
+       Interlayer1 = 0.32
+       Interlayer2 = 0.20        Rfactor = 0.3680346748903032
+       Interlayer1 = 0.32
+       Interlayer2 = 0.21        Rfactor = 0.3720962656260116
+       Interlayer1 = 0.32
+       Interlayer2 = 0.22        Rfactor = 0.3843546225371841
+       Interlayer1 = 0.32
+       Interlayer2 = 0.23        Rfactor = 0.37943344520099015
+       Interlayer1 = 0.32
+       Interlayer2 = 0.24        Rfactor = 0.37587961344775683
+       Interlayer1 = 0.32
+       Interlayer2 = 0.25        Rfactor = 0.37333688100065987
+       Interlayer1 = 0.32
+       Interlayer2 = 0.26        Rfactor = 0.37877745918243705
+       Interlayer1 = 0.32
+       Interlayer2 = 0.27        Rfactor = 0.377507996709016
+       Interlayer1 = 0.32
+       Interlayer2 = 0.28        Rfactor = 0.3855025191254056
+       Interlayer1 = 0.32
+       Interlayer2 = 0.29        Rfactor = 0.39166805718619674
+       Interlayer1 = 0.32
+       Interlayer2 = 0.30        Rfactor = 0.39623823020416105
+       Interlayer1 = 0.32
+       Interlayer2 = 0.31        Rfactor = 0.3966344086630476
+       Interlayer1 = 0.32
+       Interlayer2 = 0.32        Rfactor = 0.42038440983048214
+       Interlayer1 = 0.32
+       Interlayer2 = 0.33        Rfactor = 0.41855075174102935
+       Interlayer1 = 0.32
+       Interlayer2 = 0.34        Rfactor = 0.39816296555698183
+       Interlayer1 = 0.32
+       Interlayer2 = 0.35        Rfactor = 0.40414360720314674
+       Interlayer1 = 0.32
+       Interlayer2 = 0.36        Rfactor = 0.42223070633081383
+       Interlayer1 = 0.32
+       Interlayer2 = 0.37        Rfactor = 0.4199922422039393
+       Interlayer1 = 0.32
+       Interlayer2 = 0.38        Rfactor = 0.4211037354901774
+       Interlayer1 = 0.32
+       Interlayer2 = 0.39        Rfactor = 0.41696347278634993
+       Interlayer1 = 0.32
+       Interlayer2 = 0.40        Rfactor = 0.4220707360506982
+       Interlayer1 = 0.33
+       Interlayer2 = 0.13        Rfactor = 0.34083418615477534
+       Interlayer1 = 0.33
+       Interlayer2 = 0.14        Rfactor = 0.3387232024461506
+       Interlayer1 = 0.33
+       Interlayer2 = 0.15        Rfactor = 0.345528479920543
+       Interlayer1 = 0.33
+       Interlayer2 = 0.16        Rfactor = 0.3528445970880103
+       Interlayer1 = 0.33
+       Interlayer2 = 0.17        Rfactor = 0.3575433669724147
+       Interlayer1 = 0.33
+       Interlayer2 = 0.18        Rfactor = 0.3624872863813633
+       Interlayer1 = 0.33
+       Interlayer2 = 0.19        Rfactor = 0.3684838330267002
+       Interlayer1 = 0.33
+       Interlayer2 = 0.20        Rfactor = 0.3686339723417214
+       Interlayer1 = 0.33
+       Interlayer2 = 0.21        Rfactor = 0.36489638336773783
+       Interlayer1 = 0.33
+       Interlayer2 = 0.22        Rfactor = 0.3704320932192738
+       Interlayer1 = 0.33
+       Interlayer2 = 0.23        Rfactor = 0.37617008747062963
+       Interlayer1 = 0.33
+       Interlayer2 = 0.24        Rfactor = 0.3800040809929519
+       Interlayer1 = 0.33
+       Interlayer2 = 0.25        Rfactor = 0.3792955852266425
+       Interlayer1 = 0.33
+       Interlayer2 = 0.26        Rfactor = 0.37791551025428893
+       Interlayer1 = 0.33
+       Interlayer2 = 0.27        Rfactor = 0.3828108269637912
+       Interlayer1 = 0.33
+       Interlayer2 = 0.28        Rfactor = 0.3828053451132981
+       Interlayer1 = 0.33
+       Interlayer2 = 0.29        Rfactor = 0.3955511573762067
+       Interlayer1 = 0.33
+       Interlayer2 = 0.30        Rfactor = 0.3974159594007384
+       Interlayer1 = 0.33
+       Interlayer2 = 0.31        Rfactor = 0.40410020866343915
+       Interlayer1 = 0.33
+       Interlayer2 = 0.32        Rfactor = 0.42138722097638387
+       Interlayer1 = 0.33
+       Interlayer2 = 0.33        Rfactor = 0.42078988141334306
+       Interlayer1 = 0.33
+       Interlayer2 = 0.34        Rfactor = 0.4039048009038175
+       Interlayer1 = 0.33
+       Interlayer2 = 0.35        Rfactor = 0.40651162373696803
+       Interlayer1 = 0.33
+       Interlayer2 = 0.36        Rfactor = 0.4288932115525009
+       Interlayer1 = 0.33
+       Interlayer2 = 0.37        Rfactor = 0.427315432987547
+       Interlayer1 = 0.33
+       Interlayer2 = 0.38        Rfactor = 0.42249608618382056
+       Interlayer1 = 0.33
+       Interlayer2 = 0.39        Rfactor = 0.41883510675260555
+       Interlayer1 = 0.33
+       Interlayer2 = 0.40        Rfactor = 0.43116566984787325
+       Interlayer1 = 0.34
+       Interlayer2 = 0.13        Rfactor = 0.3422760363108627
+       Interlayer1 = 0.34
+       Interlayer2 = 0.14        Rfactor = 0.3418088711906279
+       Interlayer1 = 0.34
+       Interlayer2 = 0.15        Rfactor = 0.3472368258253482
+       Interlayer1 = 0.34
+       Interlayer2 = 0.16        Rfactor = 0.34839850648224413
+       Interlayer1 = 0.34
+       Interlayer2 = 0.17        Rfactor = 0.35196401918159015
+       Interlayer1 = 0.34
+       Interlayer2 = 0.18        Rfactor = 0.36242804374104864
+       Interlayer1 = 0.34
+       Interlayer2 = 0.19        Rfactor = 0.36324392337287464
+       Interlayer1 = 0.34
+       Interlayer2 = 0.20        Rfactor = 0.36459239752029016
+       Interlayer1 = 0.34
+       Interlayer2 = 0.21        Rfactor = 0.36476539108754535
+       Interlayer1 = 0.34
+       Interlayer2 = 0.22        Rfactor = 0.3693420312836774
+       Interlayer1 = 0.34
+       Interlayer2 = 0.23        Rfactor = 0.36787969929692543
+       Interlayer1 = 0.34
+       Interlayer2 = 0.24        Rfactor = 0.3754069001576558
+       Interlayer1 = 0.34
+       Interlayer2 = 0.25        Rfactor = 0.3772442479512085
+       Interlayer1 = 0.34
+       Interlayer2 = 0.26        Rfactor = 0.38508725942555966
+       Interlayer1 = 0.34
+       Interlayer2 = 0.27        Rfactor = 0.38740895364841144
+       Interlayer1 = 0.34
+       Interlayer2 = 0.28        Rfactor = 0.3932804908565549
+       Interlayer1 = 0.34
+       Interlayer2 = 0.29        Rfactor = 0.3972649504487783
+       Interlayer1 = 0.34
+       Interlayer2 = 0.30        Rfactor = 0.41380731840780427
+       Interlayer1 = 0.34
+       Interlayer2 = 0.31        Rfactor = 0.41426388900656497
+       Interlayer1 = 0.34
+       Interlayer2 = 0.32        Rfactor = 0.42271046741629936
+       Interlayer1 = 0.34
+       Interlayer2 = 0.33        Rfactor = 0.42173303446548394
+       Interlayer1 = 0.34
+       Interlayer2 = 0.34        Rfactor = 0.410578943445793
+       Interlayer1 = 0.34
+       Interlayer2 = 0.35        Rfactor = 0.41368661042564375
+       Interlayer1 = 0.34
+       Interlayer2 = 0.36        Rfactor = 0.4383325878179988
+       Interlayer1 = 0.34
+       Interlayer2 = 0.37        Rfactor = 0.4342609665436209
+       Interlayer1 = 0.34
+       Interlayer2 = 0.38        Rfactor = 0.431716011044057
+       Interlayer1 = 0.34
+       Interlayer2 = 0.39        Rfactor = 0.43041553094058216
+       Interlayer1 = 0.34
+       Interlayer2 = 0.40        Rfactor = 0.42889518455089004
+       Interlayer1 = 0.35
+       Interlayer2 = 0.13        Rfactor = 0.34175369500047276
+       Interlayer1 = 0.35
+       Interlayer2 = 0.14        Rfactor = 0.3423243110779177
+       Interlayer1 = 0.35
+       Interlayer2 = 0.15        Rfactor = 0.34304719656504395
+       Interlayer1 = 0.35
+       Interlayer2 = 0.16        Rfactor = 0.34645738957786293
+       Interlayer1 = 0.35
+       Interlayer2 = 0.17        Rfactor = 0.3538414227825048
+       Interlayer1 = 0.35
+       Interlayer2 = 0.18        Rfactor = 0.3594387998593953
+       Interlayer1 = 0.35
+       Interlayer2 = 0.19        Rfactor = 0.36439857250584373
+       Interlayer1 = 0.35
+       Interlayer2 = 0.20        Rfactor = 0.3684521966401353
+       Interlayer1 = 0.35
+       Interlayer2 = 0.21        Rfactor = 0.3652732546674691
+       Interlayer1 = 0.35
+       Interlayer2 = 0.22        Rfactor = 0.3674804219874747
+       Interlayer1 = 0.35
+       Interlayer2 = 0.23        Rfactor = 0.3682692307900244
+       Interlayer1 = 0.35
+       Interlayer2 = 0.24        Rfactor = 0.3740992568054986
+       Interlayer1 = 0.35
+       Interlayer2 = 0.25        Rfactor = 0.3790145426196116
+       Interlayer1 = 0.35
+       Interlayer2 = 0.26        Rfactor = 0.3828372830467654
+       Interlayer1 = 0.35
+       Interlayer2 = 0.27        Rfactor = 0.39157612277094195
+       Interlayer1 = 0.35
+       Interlayer2 = 0.28        Rfactor = 0.395997705769342
+       Interlayer1 = 0.35
+       Interlayer2 = 0.29        Rfactor = 0.3977324962072581
+       Interlayer1 = 0.35
+       Interlayer2 = 0.30        Rfactor = 0.4006741653441679
+       Interlayer1 = 0.35
+       Interlayer2 = 0.31        Rfactor = 0.41439607263505956
+       Interlayer1 = 0.35
+       Interlayer2 = 0.32        Rfactor = 0.4228021778163243
+       Interlayer1 = 0.35
+       Interlayer2 = 0.33        Rfactor = 0.4265869084571553
+       Interlayer1 = 0.35
+       Interlayer2 = 0.34        Rfactor = 0.4119219783185797
+       Interlayer1 = 0.35
+       Interlayer2 = 0.35        Rfactor = 0.41979069564242044
+       Interlayer1 = 0.35
+       Interlayer2 = 0.36        Rfactor = 0.44099773224295213
+       Interlayer1 = 0.35
+       Interlayer2 = 0.37        Rfactor = 0.4347477251794061
+       Interlayer1 = 0.35
+       Interlayer2 = 0.38        Rfactor = 0.4367591466294556
+       Interlayer1 = 0.35
+       Interlayer2 = 0.39        Rfactor = 0.42969749266744317
+       Interlayer1 = 0.35
+       Interlayer2 = 0.40        Rfactor = 0.4300154815535946
+       Interlayer1 = 0.36
+       Interlayer2 = 0.13        Rfactor = 0.34345744891423585
+       Interlayer1 = 0.36
+       Interlayer2 = 0.14        Rfactor = 0.3445648900063838
+       Interlayer1 = 0.36
+       Interlayer2 = 0.15        Rfactor = 0.346959332868116
+       Interlayer1 = 0.36
+       Interlayer2 = 0.16        Rfactor = 0.35063039828902803
+       Interlayer1 = 0.36
+       Interlayer2 = 0.17        Rfactor = 0.3523104254337961
+       Interlayer1 = 0.36
+       Interlayer2 = 0.18        Rfactor = 0.3570855461700838
+       Interlayer1 = 0.36
+       Interlayer2 = 0.19        Rfactor = 0.3669982898818615
+       Interlayer1 = 0.36
+       Interlayer2 = 0.20        Rfactor = 0.3723864230378528
+       Interlayer1 = 0.36
+       Interlayer2 = 0.21        Rfactor = 0.3938755878392478
+       Interlayer1 = 0.36
+       Interlayer2 = 0.22        Rfactor = 0.37057464727982703
+       Interlayer1 = 0.36
+       Interlayer2 = 0.23        Rfactor = 0.3693685945362291
+       Interlayer1 = 0.36
+       Interlayer2 = 0.24        Rfactor = 0.38069645686268244
+       Interlayer1 = 0.36
+       Interlayer2 = 0.25        Rfactor = 0.3794433771804794
+       Interlayer1 = 0.36
+       Interlayer2 = 0.26        Rfactor = 0.39032358635631437
+       Interlayer1 = 0.36
+       Interlayer2 = 0.27        Rfactor = 0.3879534167676566
+       Interlayer1 = 0.36
+       Interlayer2 = 0.28        Rfactor = 0.4041283358992175
+       Interlayer1 = 0.36
+       Interlayer2 = 0.29        Rfactor = 0.4094715565449546
+       Interlayer1 = 0.36
+       Interlayer2 = 0.30        Rfactor = 0.4138554000558878
+       Interlayer1 = 0.36
+       Interlayer2 = 0.31        Rfactor = 0.42323561794112985
+       Interlayer1 = 0.36
+       Interlayer2 = 0.32        Rfactor = 0.4249245166764636
+       Interlayer1 = 0.36
+       Interlayer2 = 0.33        Rfactor = 0.4183520509219699
+       Interlayer1 = 0.36
+       Interlayer2 = 0.34        Rfactor = 0.4291192320192381
+       Interlayer1 = 0.36
+       Interlayer2 = 0.35        Rfactor = 0.4337979979643704
+       Interlayer1 = 0.36
+       Interlayer2 = 0.36        Rfactor = 0.44244704480585256
+       Interlayer1 = 0.36
+       Interlayer2 = 0.37        Rfactor = 0.44336402860833046
+       Interlayer1 = 0.36
+       Interlayer2 = 0.38        Rfactor = 0.4368118258633101
+       Interlayer1 = 0.36
+       Interlayer2 = 0.39        Rfactor = 0.4315652857109844
+       Interlayer1 = 0.36
+       Interlayer2 = 0.40        Rfactor = 0.436927375506933
+       Interlayer1 = 0.37
+       Interlayer2 = 0.13        Rfactor = 0.34226142799211856
+       Interlayer1 = 0.37
+       Interlayer2 = 0.14        Rfactor = 0.341599599109654
+       Interlayer1 = 0.37
+       Interlayer2 = 0.15        Rfactor = 0.34824481572255733
+       Interlayer1 = 0.37
+       Interlayer2 = 0.16        Rfactor = 0.3493377953131314
+       Interlayer1 = 0.37
+       Interlayer2 = 0.17        Rfactor = 0.3538037207986104
+       Interlayer1 = 0.37
+       Interlayer2 = 0.18        Rfactor = 0.35885994954916756
+       Interlayer1 = 0.37
+       Interlayer2 = 0.19        Rfactor = 0.36410794960166276
+       Interlayer1 = 0.37
+       Interlayer2 = 0.20        Rfactor = 0.3747204051202693
+       Interlayer1 = 0.37
+       Interlayer2 = 0.21        Rfactor = 0.3813137557020502
+       Interlayer1 = 0.37
+       Interlayer2 = 0.22        Rfactor = 0.373883256708314
+       Interlayer1 = 0.37
+       Interlayer2 = 0.23        Rfactor = 0.37675138611083325
+       Interlayer1 = 0.37
+       Interlayer2 = 0.24        Rfactor = 0.38115088297735944
+       Interlayer1 = 0.37
+       Interlayer2 = 0.25        Rfactor = 0.3865707982425242
+       Interlayer1 = 0.37
+       Interlayer2 = 0.26        Rfactor = 0.3938825784070341
+       Interlayer1 = 0.37
+       Interlayer2 = 0.27        Rfactor = 0.40457407427109626
+       Interlayer1 = 0.37
+       Interlayer2 = 0.28        Rfactor = 0.40797185514855183
+       Interlayer1 = 0.37
+       Interlayer2 = 0.29        Rfactor = 0.40242132686694587
+       Interlayer1 = 0.37
+       Interlayer2 = 0.30        Rfactor = 0.42489674962678003
+       Interlayer1 = 0.37
+       Interlayer2 = 0.31        Rfactor = 0.4117782172374845
+       Interlayer1 = 0.37
+       Interlayer2 = 0.32        Rfactor = 0.4257592089543139
+       Interlayer1 = 0.37
+       Interlayer2 = 0.33        Rfactor = 0.4224721610326831
+       Interlayer1 = 0.37
+       Interlayer2 = 0.34        Rfactor = 0.43578884643196314
+       Interlayer1 = 0.37
+       Interlayer2 = 0.35        Rfactor = 0.437611272070014
+       Interlayer1 = 0.37
+       Interlayer2 = 0.36        Rfactor = 0.44755896995855304
+       Interlayer1 = 0.37
+       Interlayer2 = 0.37        Rfactor = 0.44018024631943253
+       Interlayer1 = 0.37
+       Interlayer2 = 0.38        Rfactor = 0.43838439228151743
+       Interlayer1 = 0.37
+       Interlayer2 = 0.39        Rfactor = 0.43524804822866386
+       Interlayer1 = 0.37
+       Interlayer2 = 0.40        Rfactor = 0.4313056031041039
+       Interlayer1 = 0.38
+       Interlayer2 = 0.13        Rfactor = 0.3429409758555164
+       Interlayer1 = 0.38
+       Interlayer2 = 0.14        Rfactor = 0.34470156956648457
+       Interlayer1 = 0.38
+       Interlayer2 = 0.15        Rfactor = 0.34809044912577064
+       Interlayer1 = 0.38
+       Interlayer2 = 0.16        Rfactor = 0.3493303887248626
+       Interlayer1 = 0.38
+       Interlayer2 = 0.17        Rfactor = 0.35506994692739924
+       Interlayer1 = 0.38
+       Interlayer2 = 0.18        Rfactor = 0.35785949145351437
+       Interlayer1 = 0.38
+       Interlayer2 = 0.19        Rfactor = 0.36289304186526483
+       Interlayer1 = 0.38
+       Interlayer2 = 0.20        Rfactor = 0.3723851024637731
+       Interlayer1 = 0.38
+       Interlayer2 = 0.21        Rfactor = 0.38341292065510935
+       Interlayer1 = 0.38
+       Interlayer2 = 0.22        Rfactor = 0.38734825600567147
+       Interlayer1 = 0.38
+       Interlayer2 = 0.23        Rfactor = 0.3756828501716294
+       Interlayer1 = 0.38
+       Interlayer2 = 0.24        Rfactor = 0.38731928921633324
+       Interlayer1 = 0.38
+       Interlayer2 = 0.25        Rfactor = 0.39142394333563785
+       Interlayer1 = 0.38
+       Interlayer2 = 0.26        Rfactor = 0.4021812101222271
+       Interlayer1 = 0.38
+       Interlayer2 = 0.27        Rfactor = 0.4044375043599449
+       Interlayer1 = 0.38
+       Interlayer2 = 0.28        Rfactor = 0.4064308851560666
+       Interlayer1 = 0.38
+       Interlayer2 = 0.29        Rfactor = 0.40299073951743036
+       Interlayer1 = 0.38
+       Interlayer2 = 0.30        Rfactor = 0.4245659455193913
+       Interlayer1 = 0.38
+       Interlayer2 = 0.31        Rfactor = 0.4234292784550953
+       Interlayer1 = 0.38
+       Interlayer2 = 0.32        Rfactor = 0.42188866536201003
+       Interlayer1 = 0.38
+       Interlayer2 = 0.33        Rfactor = 0.41633416171617155
+       Interlayer1 = 0.38
+       Interlayer2 = 0.34        Rfactor = 0.4254917105178251
+       Interlayer1 = 0.38
+       Interlayer2 = 0.35        Rfactor = 0.44246090336891164
+       Interlayer1 = 0.38
+       Interlayer2 = 0.36        Rfactor = 0.42819539999719175
+       Interlayer1 = 0.38
+       Interlayer2 = 0.37        Rfactor = 0.44327182285476535
+       Interlayer1 = 0.38
+       Interlayer2 = 0.38        Rfactor = 0.444624258465971
+       Interlayer1 = 0.38
+       Interlayer2 = 0.39        Rfactor = 0.4352388668597881
+       Interlayer1 = 0.38
+       Interlayer2 = 0.40        Rfactor = 0.4296732378760785
+       Interlayer1 = 0.39
+       Interlayer2 = 0.13        Rfactor = 0.34552207635030224
+       Interlayer1 = 0.39
+       Interlayer2 = 0.14        Rfactor = 0.34684155219204194
+       Interlayer1 = 0.39
+       Interlayer2 = 0.15        Rfactor = 0.3491566522443808
+       Interlayer1 = 0.39
+       Interlayer2 = 0.16        Rfactor = 0.35222567579783376
+       Interlayer1 = 0.39
+       Interlayer2 = 0.17        Rfactor = 0.3550007880099511
+       Interlayer1 = 0.39
+       Interlayer2 = 0.18        Rfactor = 0.3631650281087063
+       Interlayer1 = 0.39
+       Interlayer2 = 0.19        Rfactor = 0.36255358915937397
+       Interlayer1 = 0.39
+       Interlayer2 = 0.20        Rfactor = 0.3656349155647786
+       Interlayer1 = 0.39
+       Interlayer2 = 0.21        Rfactor = 0.3835832187677115
+       Interlayer1 = 0.39
+       Interlayer2 = 0.22        Rfactor = 0.38064621460193776
+       Interlayer1 = 0.39
+       Interlayer2 = 0.23        Rfactor = 0.3801478791893474
+       Interlayer1 = 0.39
+       Interlayer2 = 0.24        Rfactor = 0.3861121762023426
+       Interlayer1 = 0.39
+       Interlayer2 = 0.25        Rfactor = 0.3991142047790976
+       Interlayer1 = 0.39
+       Interlayer2 = 0.26        Rfactor = 0.40229027528594635
+       Interlayer1 = 0.39
+       Interlayer2 = 0.27        Rfactor = 0.40667225769107607
+       Interlayer1 = 0.39
+       Interlayer2 = 0.28        Rfactor = 0.4097438721049433
+       Interlayer1 = 0.39
+       Interlayer2 = 0.29        Rfactor = 0.4046775893659943
+       Interlayer1 = 0.39
+       Interlayer2 = 0.30        Rfactor = 0.4208990496619328
+       Interlayer1 = 0.39
+       Interlayer2 = 0.31        Rfactor = 0.4261795681393483
+       Interlayer1 = 0.39
+       Interlayer2 = 0.32        Rfactor = 0.4291989519658391
+       Interlayer1 = 0.39
+       Interlayer2 = 0.33        Rfactor = 0.41602842374635535
+       Interlayer1 = 0.39
+       Interlayer2 = 0.34        Rfactor = 0.42221703165316304
+       Interlayer1 = 0.39
+       Interlayer2 = 0.35        Rfactor = 0.42262505495157254
+       Interlayer1 = 0.39
+       Interlayer2 = 0.36        Rfactor = 0.42937004990385735
+       Interlayer1 = 0.39
+       Interlayer2 = 0.37        Rfactor = 0.44703266547666104
+       Interlayer1 = 0.39
+       Interlayer2 = 0.38        Rfactor = 0.44182508317490216
+       Interlayer1 = 0.39
+       Interlayer2 = 0.39        Rfactor = 0.43717108648582487
+       Interlayer1 = 0.39
+       Interlayer2 = 0.40        Rfactor = 0.43287060625013973
+       Interlayer1 = 0.40
+       Interlayer2 = 0.13        Rfactor = 0.3478382128996981
+       Interlayer1 = 0.40
+       Interlayer2 = 0.14        Rfactor = 0.34701258638785704
+       Interlayer1 = 0.40
+       Interlayer2 = 0.15        Rfactor = 0.35438528775886324
+       Interlayer1 = 0.40
+       Interlayer2 = 0.16        Rfactor = 0.3568758195419681
+       Interlayer1 = 0.40
+       Interlayer2 = 0.17        Rfactor = 0.3620535322477943
+       Interlayer1 = 0.40
+       Interlayer2 = 0.18        Rfactor = 0.36472666480941635
+       Interlayer1 = 0.40
+       Interlayer2 = 0.19        Rfactor = 0.36422237668977364
+       Interlayer1 = 0.40
+       Interlayer2 = 0.20        Rfactor = 0.3736276579091579
+       Interlayer1 = 0.40
+       Interlayer2 = 0.21        Rfactor = 0.3753026624352117
+       Interlayer1 = 0.40
+       Interlayer2 = 0.22        Rfactor = 0.38924997781901544
+       Interlayer1 = 0.40
+       Interlayer2 = 0.23        Rfactor = 0.38765851921979216
+       Interlayer1 = 0.40
+       Interlayer2 = 0.24        Rfactor = 0.3985174583897258
+       Interlayer1 = 0.40
+       Interlayer2 = 0.25        Rfactor = 0.40139408248603103
+       Interlayer1 = 0.40
+       Interlayer2 = 0.26        Rfactor = 0.41029016234925053
+       Interlayer1 = 0.40
+       Interlayer2 = 0.27        Rfactor = 0.4148207923180648
+       Interlayer1 = 0.40
+       Interlayer2 = 0.28        Rfactor = 0.4142973594081714
+       Interlayer1 = 0.40
+       Interlayer2 = 0.29        Rfactor = 0.41145554807708024
+       Interlayer1 = 0.40
+       Interlayer2 = 0.30        Rfactor = 0.4311487158987176
+       Interlayer1 = 0.40
+       Interlayer2 = 0.31        Rfactor = 0.4307143106157983
+       Interlayer1 = 0.40
+       Interlayer2 = 0.32        Rfactor = 0.4347182342431275
+       Interlayer1 = 0.40
+       Interlayer2 = 0.33        Rfactor = 0.4281639423235318
+       Interlayer1 = 0.40
+       Interlayer2 = 0.34        Rfactor = 0.41857867752051636
+       Interlayer1 = 0.40
+       Interlayer2 = 0.35        Rfactor = 0.42704775880823487
+       Interlayer1 = 0.40
+       Interlayer2 = 0.36        Rfactor = 0.43659667743093383
+       Interlayer1 = 0.40
+       Interlayer2 = 0.37        Rfactor = 0.4337895729805248
+       Interlayer1 = 0.40
+       Interlayer2 = 0.38        Rfactor = 0.44221518120782305
+       Interlayer1 = 0.40
+       Interlayer2 = 0.39        Rfactor = 0.436652082153316
+       Interlayer1 = 0.40
+       Interlayer2 = 0.40        Rfactor = 0.4311459286700075
